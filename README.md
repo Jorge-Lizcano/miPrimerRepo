@@ -9,3 +9,5 @@ Un commit adicional desde Githab.
 Un ajuste adicional desde Github, para verificar un comando.
 
 Cambios desde mi rama local de nombre developer01.
+
+Cambios desde dev editor.
